@@ -3,7 +3,7 @@
 ### Languages
 
 [![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://github.com/visibait?tab=repositories&q=&type=&language=lua)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/visibait?tab=repositories&q=&type=&language=javascript)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/visibait?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/visibait?tab=repositories&q=&type=&language=java)
