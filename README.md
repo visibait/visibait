@@ -18,8 +18,8 @@
 
 ### Proyectos/Contribuciones
 
-[![Página web](https://img.shields.io/badge/-🧬%20My%20Website-000?)](https://visibait.com)
-[![LealtadRP](https://img.shields.io/badge/-❤️%20My%20Website-000?)](https://lealtadrp.com)
+[![Página web](https://img.shields.io/badge/-🧬%20^Página%20Web-000?)](https://visibait.com)
+[![LealtadRP](https://img.shields.io/badge/-❤️%20Lealtad%20RP-000?)](https://lealtadrp.com)
 
 ### FiveM
 
