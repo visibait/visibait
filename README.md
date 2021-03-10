@@ -24,6 +24,7 @@
 ### FiveM
 
 - :telescope: Actualmente estoy desarrollando/contribuyendo en el proyecto "LealtadRP"
+- Discord de Lealtad ❤️ https://discord.gg/phGTNNEvCk
 - Web: http://visibait.com
 - 📭 Discord: VisiBait#0712
 
