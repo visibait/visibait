@@ -16,15 +16,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-### Proyectos/Contribuciones
+### Projects/Contributions 
 
 [![Página web](https://img.shields.io/badge/-🧬%20Página%20Web-000?)](https://visibait.com)
-[![LealtadRP](https://img.shields.io/badge/-❤️%20Lealtad%20RP-000?)](https://lealtadrp.com)
+[![FiveEye](https://img.shields.io/badge/-❤️%20FiveEye%20AC-000?)](https://fiveeyeac.com)
 
 ### FiveM
 
-- :telescope: Actualmente estoy desarrollando/contribuyendo en el proyecto "LealtadRP"
-- ❤️ Discord de Lealtad: https://discord.gg/phGTNNEvCk
+- :telescope: Currently coding FiveEye, The Best FiveM AntiCheat.
+- ❤️ FiveEye: https://fiveeyeac.com
 - 🤩 Web: http://visibait.com
 - 📭 Discord: VisiBait#0712
 
