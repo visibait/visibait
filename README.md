@@ -23,7 +23,7 @@
 
 ### FiveM
 
-- :telescope: Currently coding FiveEye, The Best FiveM AntiCheat.
+- :telescope: Currently coding FiveEye, the best solution against cheaters.
 - ❤️ FiveEye: https://fiveeyeac.com
 - 🤩 Web: http://visibait.com
 - 📭 Discord: VisiBait#0712
