@@ -28,4 +28,4 @@
 - 🤩 Web: http://visibait.com
 - 📭 Discord: VisiBait#0712
 
-<a href="https://www.visibait.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=visibait&show_icons=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visibait&show_icons=true&theme=dark" /></a>
+<a href="https://www.visibait.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=visibait&show_icons=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visibait&layout=compact&show_icons=true&theme=dark" /></a>
