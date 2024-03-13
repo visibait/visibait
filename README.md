@@ -24,7 +24,7 @@
 ### FiveM
 
 - :telescope: Currently coding VisionX AntiCheat - Unrivaled Security for your FiveM Server.
-- ❤️ FiveEye: https://visionx.ac
+- ❤️ VisionX: https://visionx.ac
 - 🤩 Web: http://visibait.com
 - 📭 Discord: VisiBait#0712
 
