@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/visibait/visibait/master/videoreadme.gif)](https://www.visibait.com/)
+[![Header](https://raw.githubusercontent.com/visibait/visibait/master/banner.png)](https://www.visibait.com/)
 
 ### Programming Languages
 
