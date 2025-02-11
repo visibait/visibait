@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-visibait.com-blue?style=flat-square&logo=google-chrome)](http://visibait.com)
 [![Discord](https://img.shields.io/badge/Discord-visibait-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/visibait)
 
 ## About Me 💫
 
