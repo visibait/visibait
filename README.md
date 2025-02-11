@@ -1,31 +1,41 @@
 [![Header](https://raw.githubusercontent.com/visibait/visibait/master/banner.png)](https://www.visibait.com/)
 
-### Programming Languages
+# 👋 Hey there, I'm Cristian Olivares
 
-[![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://github.com/visibait?tab=repositories&q=&type=&language=lua)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/visibait?tab=repositories&q=&type=&language=javascript)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+[![Website](https://img.shields.io/badge/Website-visibait.com-blue?style=flat-square&logo=google-chrome)](http://visibait.com)
+[![Discord](https://img.shields.io/badge/Discord-visibait-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/)
 
-### Technologies
+## About Me 💫
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+I'm a 20-year-old self-taught Full Stack Developer with a passion for creating innovative solutions. I specialize in both web and mobile development, crafting seamless experiences from frontend to backend.
 
-### Projects/Contributions 
+### What I Do 🚀
 
-[![Página web](https://img.shields.io/badge/-🧬%20Página%20Web-000?)](https://visibait.com)
-[![VisionX](https://img.shields.io/badge/-❤️%20VisionX%20AC-000?)](https://visionx.ac)
+- 🌐 Full Stack Web Development
+- 📱 Mobile App Development
+- 🎨 UI/UX Implementation
+- 🛠️ API Development
+- 📊 Database Architecture
 
-### FiveM
+## Tech Stack 💻
 
-- :telescope: Currently coding VisionX AntiCheat - Unrivaled Security for your FiveM Server.
-- ❤️ VisionX: https://visionx.ac
-- 🤩 Web: http://visibait.com
-- 📭 Discord: VisiBait#0712
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,mongodb,lua,mysql,androidstudio&perline=5)](https://skillicons.dev)
 
-<a href="https://www.visibait.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=visibait&show_icons=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visibait&layout=compact&show_icons=true&theme=dark" /></a>
+## GitHub Analytics ⚡
+
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=visibait&show_icons=true&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visibait&layout=compact&theme=tokyonight" />
+  <img height="140em" src="https://nirzak-streak-stats.vercel.app/?user=visibait&theme=tokyonight" />
+</div>
+
+## Currently Working On 🔭
+
+- 🚀 Building scalable web applications
+- 📱 Developing cross-platform mobile solutions
+- 🌟 Contributing to open-source projects
+
+## Donate! 🤝
+
+[![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
