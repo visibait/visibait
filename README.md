@@ -25,9 +25,9 @@ I'm a 20-year-old self-taught Full Stack Developer with a passion for creating i
 ## GitHub Analytics ⚡
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=visibait&show_icons=true&theme=tokyonight" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visibait&layout=compact&theme=tokyonight" />
-  <img height="140em" src="https://nirzak-streak-stats.vercel.app/?user=visibait&theme=tokyonight" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=visibait&show_icons=true&theme=tokyonight" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visibait&layout=compact&theme=tokyonight" />
+  <img height="130em" src="https://nirzak-streak-stats.vercel.app/?user=visibait&theme=tokyonight" />
 </div>
 
 ## Currently Working On 🔭
